@@ -18,3 +18,8 @@
 [CSV reports in SoapUI Open Source](https://www.youtube.com/watch?v=nTl9qIyxZOo&list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF&index=26)
 
 [Apache Groovy](https://groovy-lang.org/json.html)
+
+
+[Run SoapUI tests on Jenkins](https://www.youtube.com/watch?v=JLQ0ayUr4CE&list=PLhW3qG5bs-L-Bt9T_bnyflQ0Te4VgFhKF&index=22)
+
+<img src="/img/jenkins.png" width="700" height="250">
